@@ -1,0 +1,4 @@
+type,campaigns,cost,clicks,impressions,conversions,conv_value
+DEMAND_GEN,1,395.34,497,37744,2.0,22.0
+PERFORMANCE_MAX,3,145.61,48,1536,10.0,10.0
+SEARCH,201,720910.84,118175,804670,34613.74,273403.14
